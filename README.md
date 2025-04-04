@@ -10,8 +10,8 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/shahbasharat/search?l=javascript)
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![web](https://user-images.githubusercontent.com/68460973/219528435-b20800ff-8284-41b0-8687-87f9c3124164.jpg)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 
 <h2>📬 Contact</h2>

@@ -1,5 +1,5 @@
 ## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+Portfolio website build using HTML5, CSS3 and JavaScript.
 
 <a href="https://shahb.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
@@ -14,14 +14,32 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 ![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 
-<h2>📬 Contact</h2>
+## Prerequisites
 
+Before you begin, ensure you have met the following requirements:
 
-If you want to contact me, you can reach me through below handles.
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/basharatsalam"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+## Installing Portfolio
 
-© 2025 Shah Basharat
+To install **Portfolio**, follow these steps:
 
+Linux and macOS:
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+```bash
+sudo git clone https://github.com/shahbasharat/portfolio.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/shahbasharat/portfolio.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [linkedin](https://www.linkedin.com/in/basharatsalam/).
+
+## License
+
+MIT
